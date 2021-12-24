@@ -11,6 +11,7 @@ PROJECT_APPS = [
 ]
 
 EXTRA_APPS = [
+    'ninja',
 ]
 
 INSTALLED_APPS += PROJECT_APPS
